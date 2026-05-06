@@ -1,0 +1,9 @@
+{
+  "name": "vulcan-webhook",
+  "version": "1.0.0",
+  "description": "Custom webhook for Vulcan (Premint) NFT role verification",
+  "type": "module",
+  "dependencies": {
+    "viem": "^2.21.0"
+  }
+}
