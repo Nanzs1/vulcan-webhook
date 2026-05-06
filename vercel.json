@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/verify-founding.js": {
+      "maxDuration": 30
+    },
+    "api/verify-pet.js": {
+      "maxDuration": 30
+    }
+  }
+}
